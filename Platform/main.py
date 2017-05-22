@@ -1,5 +1,5 @@
-import encode # local library(Desktop:/platform:/encode.py)
-import decode # local library(Desktop:/platform:/decode.py)
+import encode # local library(platform:/encode.py)
+import decode # local library(platform:/decode.py)
 
 
 print('Do you want compress or decode : ')
