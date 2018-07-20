@@ -1,6 +1,6 @@
 import encode # local library(platform:/encode.py)
 import decode # local library(platform:/decode.py)
-
+#KDVLPR
 
 print('Do you want compress or decode : ')
 
@@ -24,4 +24,3 @@ elif user_d == '2':
 
 else :
 	print('')
-
